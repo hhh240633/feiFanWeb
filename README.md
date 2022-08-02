@@ -1,3 +1,5 @@
+主页：https://hhh240633.github.io/feiFanWeb/
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hhh240633/feiFanWeb/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
