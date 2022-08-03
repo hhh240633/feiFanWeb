@@ -1,4 +1,5 @@
 主页：https://hhh240633.github.io/feiFanWeb/
+仓库链接：https://github.com/hhh240633/feiFanWeb.git
 
 ## Welcome to GitHub Pages
 
